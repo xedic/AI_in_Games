@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\bin\Debug\AI_in_Games.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\bin\Debug\AI_in_Games.exe
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\bin\Debug\AI_in_Games.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\obj\Debug\AI_in_Games.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\obj\Debug\AI_in_Games.exe
+c:\users\daniel\documents\visual studio 2013\Projects\AI_in_Games\AI_in_Games\obj\Debug\AI_in_Games.pdb
